@@ -9,6 +9,6 @@ This repository contains, from ny most recent project to my earliest project:
     * Image Processing Project - this project manipulates images, including (but not limited to) multiplying, subtracting, screening, overlaying, and flipping them
     * Linked List Project - the point of this project was to learn about linked lists through designing one ourselves
     
-  * Projectramming 1 - all coded in Java
+  * Programming 1 - all coded in Java
     * Pakudex Learning Classes Project - this project, imitating the idea of a Pokedex, allowed me to list, show, add, evolve, and sort creatures, teaching me how to fluently use classes
     * Graphical Output Project - through this project, I learned how to load, read, and display images in different ways, including different binary and hex formats

@@ -1,3 +1,7 @@
+//Important Note
+//This code is not my own
+//It was provided for me for the project
+
 import java.io.File;
 import java.io.FileInputStream;
 

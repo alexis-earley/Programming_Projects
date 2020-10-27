@@ -9,5 +9,7 @@ This repository contains, from ny most recent project to my earliest project:
     * Linked List Project - the point of this project was to learn about linked lists through designing one ourselves
     
   * Programming 1 - all coded in Java
-    * Pakudex Learning Classes Project - this project, imitating the idea of a Pokedex, allowed me to list, show, add, evolve, and sort creatures, teaching me how to fluently use classes
+    * Gator Raider Project- modeled after Pac-Man, this project allowed me to use a long list of already created functions to control the movement of the gator (or Pac-Man) i
+      different situations. My programmed gator obtained the highest score in my class of 500 students.
+    * Pakudex Project - this project, imitating the idea of a Pokedex, allowed me to list, show, add, evolve, and sort creatures, teaching me how to fluently use classes
     * Graphical Output Project - through this project, I learned how to load, read, and display images in different ways, including different binary and hex formats

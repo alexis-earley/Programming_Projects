@@ -1,4 +1,4 @@
-These are my (Alexis Earley's) collection of programming projects from my college career.
+This is my collection of programming projects from my college career.
 
 Included in this collection are projects from my Programming 1 and 2 classes, which I took in Fall 2019 and Spring 2020, respectively.
 
